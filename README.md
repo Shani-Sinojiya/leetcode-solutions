@@ -7,6 +7,7 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 - [Introduction](#introduction)
 - [Contributing](#contributing)
 - [License](#license)
+- [Problems](problem.md)
 
 ## Introduction
 
