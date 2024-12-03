@@ -1,4 +1,5 @@
-from .solution import *
+from .solution import Solution
+
 solution = Solution()
 
 
